@@ -1,20 +1,20 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Miguel",
       "surnames": "Iglesias Sánchez",
-      "title": "",
+      "title": "Title",
       "description": "Hola, creo soy programador desde que era pequeño, pero que no sabía hasta que hace más de 20 aparece internet en mi vida.\n\nDesde entonces y hasta la fecha es mi principal hobby y trabajo a tiempo completo.\n\nHe trabajado en consultoría y publicidad en estos 22 años y tocado casi todos los sectores posibles. \n\nSoy fullstack en php, pero llevo 4 años especializándome como frontend en Ey, sobre todo con Vue y NuxtJs. \n\nHe trabajado con todo tipo de bases de datos, CMS, tiendas online, CRM y pongo especial gusto por el diseño y maquetación gracias a mis años en publicidad. He trabajado con todo tipo de herramientas de diseño.\n",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -27,32 +27,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
           "type": "technology"
         }
       },
@@ -64,7 +47,7 @@
       },
       {
         "skill": {
-          "name": "Vuex",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -73,6 +56,44 @@
           "name": "Nuxt.js",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -80,8 +101,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/migueliglesias"
+          "URL": "https://www.linkedin.com/in/migueliglesias",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "miguel.iglesias@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "622039387",
+          "countryCode": "+34"
         }
       ]
     },
@@ -110,5 +140,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Hola actualmente desempeño de una labor de líder dentro del proyecto Front con más de 40 programadores frontend. \n\nMi principal trabajo es la arquitectura de proyectos frontend, la gestión de proyectos y parte de la gestión de contratación y seguimiento de personas dentro del equipo.\n\nEstoy abierto cualquier rol, pero reconozco que me gusta más la parte de programación que la de gestión.\n\nMi principal motivación para cambiar de trabajo es principalmente la conciliación con mi vida privada, busco un trabajo que me permita más flexibilidad en los horarios que actualmente no tengo.\n\n"
   }
 }
