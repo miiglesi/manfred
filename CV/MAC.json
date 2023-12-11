@@ -11,8 +11,8 @@
       "title": "Senior Consultant, Frontend Lead en EY",
       "description": "| Programador Frontend (NuxtJs, Storybook, VueJs, Javascript, Jquery) Mayor experiencia con Vue (5 últimos años)\n| Programador Backend. (NodeJs, Graphql, Php, Laravel, Codeigniter, Symfony2, Cakephp, Mysql)\n| Jquery, Boostrap, Material Desing, HTML5, CSS3, Raphaeljs, VelocityJs, Gsap ...\n| GIT, Webpack, Bamboo, Jenkins, Gulp, Grunt, Sass, Docker, CI/CD\n| Cloud computing, AWS, Azure Services\n| CMS (Drupal, Wordpress, JOOMLA, CMSimple, SdlTridion).\n| eCommerce (Magento, PrestaShop, Shopify, Squarespace, Email Marketing, Mailchimp, Madrill)\n\nDiseñador web Responsive web Design.\nMaquetación, estadísticas, accesibilidad y Usabilidad. Administración de Dominios, alojamientos, servidores Linux, servidores Windows. Campañas de marketing directo, administración de bases de datos, utilización y aplicación de las tecnologías de la información y las comunicaciones en la empresa.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/11/ce7be5fe-79ff-427f-8ff6-289bdabe9db3_linkedin-photo-2973.linkedin-photo-2973",
-        "alt": "23/12/11/ce7be5fe-79ff-427f-8ff6-289bdabe9db3_linkedin-photo-2973.linkedin-photo-2973"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/11/617be112-a37c-4185-9167-e36c590987ef_linkedin-photo-2973.linkedin-photo-2973",
+        "alt": "23/12/11/617be112-a37c-4185-9167-e36c590987ef_linkedin-photo-2973.linkedin-photo-2973"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -24,6 +24,96 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/migueliglesias"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "EY",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/11/ed8c3ce7-4c47-4322-a783-7d98acc9b72d_linkedin-photo-2973.linkedin-photo-2973",
+            "alt": "23/12/11/ed8c3ce7-4c47-4322-a783-7d98acc9b72d_linkedin-photo-2973.linkedin-photo-2973"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "Frontend Lead. Arquitectura de soluciones y desarrollo de plataformas con Vue y Nuxt."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FCB Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/11/ae3a9774-2d06-44f5-8d28-b4df6e0b6f2b_linkedin-photo-2973.linkedin-photo-2973",
+            "alt": "23/12/11/ae3a9774-2d06-44f5-8d28-b4df6e0b6f2b_linkedin-photo-2973.linkedin-photo-2973"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2007-04-01",
+            "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": "Mi experiencia en FCB SPAIN me ha proporcionado trabajar con muchos tipos de empresas / clientes de diferentes Sectores y en multitud de proyectos:\n\nNivea, Eucerin , Cacaolat, Smint, Trident, Chupa Chups, Taco Bell, Cutty Sark, Ron Barceló, Hendrick's, Tia Maria, Disaronno, Glenfiddich, JTI - Japan Tobacco Internacional,(Camel, Wiston), Tesoro Público, Renfe, Fontaneda, Chip Ahoy, Oreo, Race, Alain Aflelou, JVC, Vodafone, Deutsche Bank, Caja España, BMW, Trasmediterranea, Accion contra el hambre, DAF, Grupo SM, Adidas, Regal Seguros, Havaianas, Heineken, McDonald's …\n\nFunciones: Desarrollo de aplicaciones web (Front, Backend), Maquetación, CRM, estadísticas. Accesibilidad y Usabilidad. Administración de Dominios, alojamientos. SQLserver, campañas de marketing directo, administración de bases de datos, Facebook apps, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Espacontrol"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2000-09-01",
+            "finishDate": "2007-04-30",
+            "challenges": [
+              {
+                "description": "Experiencia con ERP, CRM, contabilidad y gestión de la empresa.\n\nFunciones: Desarrollo de aplicaciones web (Front, Backend), Maquetación, estadísticas. Accesibilidad y Usabilidad. Administración de Dominios, alojamientos. Sqlserver, administración de bases de datos, etc.\n\nManejo de CMS oasyssoft, CRM SalesForce y SugarCRM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2000-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Espacontrol"
+        },
+        "roles": [
+          {
+            "name": "Espamarket",
+            "startDate": "1999-01-01",
+            "finishDate": "2000-09-30",
+            "challenges": [
+              {
+                "description": "Gestión, Administracion y programacion de comercio online espamarket.es"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
